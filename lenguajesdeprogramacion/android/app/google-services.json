@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459346479836",
+    "project_id": "lenguajes-ce302",
+    "storage_bucket": "lenguajes-ce302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459346479836:android:d65cf7845fdc0d78bf0219",
+        "android_client_info": {
+          "package_name": "com.cursoflutter.lenguajes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459346479836-qmpecv1lp1b45tk9lu03vnl3pbrs49f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Yw5AN48WRREBdaOJqgUalAhAWDPiNBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459346479836-qmpecv1lp1b45tk9lu03vnl3pbrs49f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
